@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "a@mail.ru",
+      "password": "asdfghJ1",
+      "date": 1700831665198
+    },
+    {
+      "id": 2,
+      "email": "a1@mail.ru",
+      "password": "asdfghJ1",
+      "date": 1700831704413
+    },
+    {
+      "email": "a2@mail.ru",
+      "password": "asdfghJ1",
+      "date": 1700933107028,
+      "id": 3
+    },
+    {
+      "email": "gelya.butgusaim@mail.ru",
+      "password": "Lkjh1234",
+      "date": 1701543809112,
+      "id": 5
+    },
+    {
+      "email": "dag@mail.ru",
+      "password": "asdfghJ1",
+      "date": 1701965084766,
+      "id": 6
+    },
+    {
+      "email": "ddd@mail.ru",
+      "password": "asdfghJ1",
+      "date": 1701968061047,
+      "id": 7
+    },
+    {
+      "email": "b@mail.ru",
+      "password": "asdfghJ1",
+      "date": 1702145508609,
+      "id": 8
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "New note",
+      "text": "kfhbggoejfv",
+      "date": 1700831665198
+    },
+    {
+      "userId": 1,
+      "title": "To do",
+      "text": "ldknkp efj 3jh",
+      "date": 1701013106739,
+      "id": 2
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "title": "First note",
+      "text": "fgj fd Rekjbsg er 56",
+      "date": 1700831666534
+    },
+    {
+      "userId": 5,
+      "title": "jgkjgkj",
+      "text": "kk,mb,nnnnnnnnnn",
+      "date": 1701941168022,
+      "id": 5
+    },
+    {
+      "userId": 6,
+      "title": "fhfhfn",
+      "text": "",
+      "date": 1701966572389,
+      "id": 6
+    },
+    {
+      "userId": 7,
+      "title": "sw",
+      "text": "scsa",
+      "date": 1701968303164,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "title": "fdhfdh",
+      "text": "",
+      "date": 1702148419916,
+      "id": 10
+    }
+  ]
+}
