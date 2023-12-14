@@ -14,13 +14,10 @@ const persistedReducer = persistReducer(
   combineReducers({
     user: userReducer,
     notes: notesReducer,
-  })
+  }),
 );
 
-const store = createStore(
-  persistedReducer,
-  window?.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__?.(applyMiddleware(thunk))
-);
+const store = createStore(persistedReducer, applyMiddleware(thunk));
 
 export default store;
 export const persistor = persistStore(store);
